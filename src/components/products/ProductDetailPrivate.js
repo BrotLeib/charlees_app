@@ -40,5 +40,5 @@ export default class ProductDetailPrivate extends Component {
         );
     }
 }
-
+ //
 
